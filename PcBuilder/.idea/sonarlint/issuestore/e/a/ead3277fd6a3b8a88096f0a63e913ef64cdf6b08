@@ -1,0 +1,14 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ğ•·×8ÿÃËú»1
+r
+java:S6201"PReplace this instanceof check and cast with 'instanceof Displayable displayable'(¿›éÄûÿÿÿÿ8€ÄËú»1
+G	java:S106"+Replace this use of System.out by a logger.(Ë¹ğõ8€ÄËú»1
+L	java:S106"+Replace this use of System.out by a logger.(šÕàşÿÿÿÿ8€ÄËú»1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÄËú»1
+G	java:S106"+Replace this use of System.out by a logger.(Çßü8…ÄËú»1
+F	java:S106 "+Replace this use of System.out by a logger.(¤õ²8†ÄËú»1
+m
+java:S6201!"PReplace this instanceof check and cast with 'instanceof Displayable displayable'(†ãš8†ÄËú»1
+G	java:S106""+Replace this use of System.out by a logger.(ÍåûÕ8‡ÄËú»1
+L	java:S106$"+Replace this use of System.out by a logger.(İ¢ó‡ıÿÿÿÿ8‡ÄËú»1
+L	java:S106("+Replace this use of System.out by a logger.(šÆåÿÿÿÿÿ8‡ÄËú»1

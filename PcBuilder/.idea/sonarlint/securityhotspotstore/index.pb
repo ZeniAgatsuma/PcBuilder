@@ -1,0 +1,29 @@
+
+=
+src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+W
+'src/com/zeni/model/Characteristics.java,8\4\84cc89fd023f2406198a6ff4105a3505f7b6c9aa
+J
+src/com/zeni/model/PC.java,b\a\baffe18fab38665609901e2123f09e5e6c3aa985
+Q
+!src/com/zeni/model/VideoCard.java,2\3\23f8e9c3124cf5ed62d941f92995a5a3328fb2b4
+T
+$src/com/zeni/ui/DetailSelection.java,e\a\ead3277fd6a3b8a88096f0a63e913ef64cdf6b08
+Q
+!src/com/zeni/model/Processor.java,b\1\b1c4ec56a1705d990c70687c99884817180d4edb
+S
+#src/com/zeni/model/Motherboard.java,6\9\690e998c2c62d3fb752796a5a1e6b7fb0aaa42a5
+O
+src/com/zeni/model/Cooling.java,0\c\0c7711132568866aea74aeb3498fd2dc06e60156
+K
+src/com/zeni/model/PSU.java,0\a\0a464789ba7a6c72d397a8087b99ab38bfd5ae9d
+K
+src/com/zeni/model/RAM.java,3\a\3a08fddd52288124a449015b5ca9fedb9ae3730b
+Q
+!src/com/zeni/model/HardDrive.java,e\5\e52082bdc9c907f867dc767b513bcb880691be09
+S
+#src/com/zeni/logic/Displayable.java,5\b\5bbd675bfc868e14a2e48feb3138cd4884251896
+Q
+!src/com/zeni/model/SoundCard.java,5\f\5ff56485ebb6d8b1fd4240242a048087a04c72e3
+O
+src/com/zeni/logic/Methods.java,d\a\da2d2e94825c5701f781a69ef1f0f7bbd03d7e7a
